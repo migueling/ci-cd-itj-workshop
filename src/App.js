@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bienvenidos ITJ
+          Gracias ITJ
         </a>
       </header>
     </div>
